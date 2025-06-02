@@ -13,4 +13,3 @@ Pillow 9.0.0\
 pycryptodome 3.12.0\
 Tkinter [linux command: sudo apt-get install python-tk]
 
-#.\.venv\Scripts\Activate
